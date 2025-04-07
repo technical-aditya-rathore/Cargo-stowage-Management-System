@@ -26,8 +26,9 @@ A smart cargo placement, retrieval, and simulation system developed for the *Nat
 ### Backend
 bash
 # Clone repo and navigate into it
-git clone https://github.com/yourusername/cargo-stowage.git
+git clone https://github.com/technical-aditya-rathore/cargo-stowage.git
 cd cargo-stowage
+and original readme is:- https://github.com/technical-aditya-rathore/Cargo-stowage-Management-System/edit/main/README.md
 
 # Build Docker image
 docker build -t cargo-stowage .
